@@ -1,0 +1,8 @@
+{
+  "name": "Compositor de Cuecas",
+  "description": "Una aplicación interactiva para componer Cuecas Campesinas chilenas a partir de fotos o textos, mostrando partituras, audio WAV, MIDI y MusicXML.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
